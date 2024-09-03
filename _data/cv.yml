@@ -9,8 +9,7 @@
 #      value: English, German
 - title: Soomin Woo, Ph.D.
   type: list
-  contents:
-    - Assistant Professor, Smart Vehicle Engineering Department, Konkuk University (2023 - current)
+  contents: 
     - <a href="https://scholar.google.co.kr/citations?hl=en&user=aEj75eUAAAAJ">Google Scholar</a> / <a href="http://www.linkedin.com/in/soomin-woo-3488a577">LinkedIn</a> / <a href="https://docs.google.com/document/d/1MJ-Yl2zqPIQPpNIA_KEV5RRZdb_3Iefw2lYoIEgHdsc/edit?usp=sharing">CV</a> 
 
 #- title: Soomin Woo, Ph.D.
@@ -25,6 +24,9 @@
 - title: Career
   type: time_table
   contents:
+    - title: Assistant Professor
+      institution: Smart Vehicle Engineering Department, Konkuk University
+      year: 2021 - Current 
     - title: Postdoctoral Researcher
       institution: University of California, Berkeley
       year: 2021 - 2023
