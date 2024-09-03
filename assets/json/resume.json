@@ -1,61 +1,93 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Soomin Woo",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "soominwoo@konkuk.ac.kr",
+    "phone": "(+82) 02-450-3675",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Konkuk University, 120, Neungdong-ro, Gwangjin-gu",
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "Korea",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GoogleScholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?hl=en&user=aEj75eUAAAAJ"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/soomin-woo-3488a577/"
+      },
+      {
+        "network": "CV",
+        "username": "",
+        "url": "https://docs.google.com/document/d/1MJ-Yl2zqPIQPpNIA_KEV5RRZdb_3Iefw2lYoIEgHdsc/edit?usp=sharing"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "Smart Vehicle Engineering, Konkuk University",
+      "position": "Assistant Professor",
+      "url": "",
+      "startDate": "2023-03-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
+      "name": "University of California, Berkeley",
+      "position": "Postdoctoral Researcher",
+      "url": "",
+      "startDate": "2021-12-20",
+      "endDate": "2023-02-28",
+      "summary": "ARPA-E NEXTCAR Phase II supervised by Professor Scott Moura (CEE) and Professor Francesco Borrelli (ME)",
+      "highlights": ["Algorithm development and field testing for the ecological dispatching of electric vehicle fleet through Level 4 automation and communication"]
+    },
+    {
+      "name": "Seoul Institute",
+      "position": "Researcher",
+      "url": "",
+      "startDate": "2016-08-19",
+      "endDate": "2017-05-30",
+      "summary": "Data analysis of National Household Travel Survey, 2016",
+      "highlights": [""]
+    },
+    
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Berkeley",
+      "location": "USA",
+      "url": "",
+      "area": "Civil and Environmental Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2017-08-15",
+      "endDate": "2021-12-17",
+      "score": "",
+      "courses": ["Dissertation: Electrification and Automation of Mobility Infrastructure: Unintended Consequences and Their Solutions via Connectivity, Modeling, and Control",
+                  "Advisor: Professor Scott Moura",
+                  "Committee Members: Professor Scott Moura (Chair, CEE), Professor Alexander Skabardonis (CEE), Professor Francesco Borrelli (ME), and Professor Rhonda Righter (IEOR)",
+                  "GPA: 3.833/4.0"]
     }
   ],
   "awards": [
