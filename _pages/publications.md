@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title: research
+title: Research
 description: Here are the journal publications, conference proceedings, patents, and copyrights
 nav: true
 nav_order: 2
 ---
 
-
+## Journal Publications
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
