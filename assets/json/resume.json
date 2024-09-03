@@ -26,7 +26,7 @@
         "url": "https://www.linkedin.com/in/soomin-woo-3488a577/"
       },
       {
-        "network": "CV",
+        "network": "DetailedCV",
         "username": "",
         "url": "https://docs.google.com/document/d/1MJ-Yl2zqPIQPpNIA_KEV5RRZdb_3Iefw2lYoIEgHdsc/edit?usp=sharing"
       }
@@ -61,26 +61,14 @@
       "highlights": [""]
     },
     
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
+  ], 
   "education": [
     {
       "institution": "University of California, Berkeley",
       "location": "USA",
       "url": "",
       "area": "Civil and Environmental Engineering",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "2017-08-15",
       "endDate": "2021-12-17",
       "score": "",
@@ -88,59 +76,32 @@
                   "Advisor: Professor Scott Moura",
                   "Committee Members: Professor Scott Moura (Chair, CEE), Professor Alexander Skabardonis (CEE), Professor Francesco Borrelli (ME), and Professor Rhonda Righter (IEOR)",
                   "GPA: 3.833/4.0"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Korea Advanced Institute of Science and Technology",
+      "location": "Korea",
+      "url": "",
+      "area": "Civil and Environmental Engineering",
+      "studyType": "M.S.",
+      "startDate": "2014-09-01",
+      "endDate": "2016-08-19",
+      "score": "",
+      "courses": ["Dissertation: Multi-modal Matching Problem of Shared Mobility",
+                  "Advisor: Professor Hwasoo Yeo",
+                  "GPA: 4.08/4.3"]
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "Korea Advanced Institute of Science and Technology",
+      "location": "Korea",
+      "url": "",
+      "area": "Civil and Environmental Engineering",
+      "studyType": "B.S.",
+      "startDate": "2009-09-01",
+      "endDate": "2014-02-21",
+      "score": "",
+      "courses": ["Minor: Science, Technology, and Policy",
+                  "Advisor: Professor Hwasoo Yeo",
+                  "GPA: 4.02/4.3 (Summa Cum Laude)"]
     }
   ],
   "publications": [
@@ -165,34 +126,7 @@
       "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
+  ], 
   "interests": [
     {
       "name": "Physics",
@@ -206,19 +140,7 @@
         "Quantum Teleportation"
       ]
     }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  ], 
   "projects": [
     {
       "name": "Quantum Computing",
@@ -227,6 +149,15 @@
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Nobel Prize in Physics",
+      "date": "1921-11-01",
+      "awarder": "Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ]
 }
