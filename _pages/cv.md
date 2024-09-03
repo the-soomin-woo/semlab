@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 <!--- Comments are Fun --->cv_pdf: example_pdf.pdf
-description: Please find the publication, patents, and copyrights under publications.
+<!--- Comments are Fun --->description: Please find the publication, patents, and copyrights under publications.
 <!--- Comments are Fun --->toc:
 <!--- Comments are Fun --->  sidebar: left
 ---
