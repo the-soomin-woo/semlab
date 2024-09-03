@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 <!--- Comments are Fun --->cv_pdf: example_pdf.pdf
-<!--- Comments are Fun ---> description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Please find the publication, patents, and copyrights under [publications](https://the-soomin-woo.github.io/publications/). 
 <!--- Comments are Fun --->toc:
 <!--- Comments are Fun --->  sidebar: left
 ---
