@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: journal publications
+description: journal publications, conference proceedings, patents, and copyrights
 nav: true
 nav_order: 2
 ---
@@ -19,7 +19,7 @@ nav_order: 2
 
 </div>
 
---
+---
 
 ## Journals in Preparation 
 
@@ -32,7 +32,7 @@ nav_order: 2
 7. (under review) Woo, S., Woo, B., & Tak, S*. Impact of Operational Design Domain on Autonomous Vehicle Accidents
 8. Woo, S., Ozturk, A., & Moura, S. J. Intelligent Charging Optimization of an Electric Vehicle Fleet with Demand Charge Prediction.
 
---
+---
 
 ## Conference Proceedings
 
@@ -46,7 +46,7 @@ nav_order: 2
 8. Tak, S., Woo, S., & Yeo, H. (2015). Sampling-based collision warning system with smartphone in cloud computing environment. 2015 IEEE Intelligent Vehicles Symposium (IV), https://doi.org/10.1109/IVS.2015.7225843
 9. Woo, S., & Yeo, H*. (2015) Day-based Prediction of Origin-Destination Demand of Large Network, The Twenty-Eight KKHTCNN Symposium on Civil Engineering
 
--- 
+---
 
 ## Patents
 
@@ -63,7 +63,7 @@ nav_order: 2
   - Publication Number: 1020170073220
   - Publication Date: 2017/06/18 
 
---
+---
 
 ## Copyrights
 
