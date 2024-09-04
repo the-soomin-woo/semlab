@@ -2,14 +2,13 @@
 layout: page
 permalink: /contact/
 title: contact
-description: Please feel free to contact us.
+description: 
 nav: true
 nav_order: 6
 ---
 ## We are recruiting graduate students!
 
-
-Contact Soomin Woo, Ph.D., Director of Sustainable Energy and Mobility Lab
+Soomin Woo, Ph.D., Director of Sustainable Energy and Mobility Lab
 
 Address: Konkuk University, 120, Neungdong-ro, Gwangjin-gu, Seoul, Korea 
 
