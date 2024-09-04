@@ -13,8 +13,8 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -27,7 +27,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ---
 
 ## contact
-Soomin Woo, Ph.D., Director of Sustainable Energy and Mobility Lab
-Konkuk University, 120, Neungdong-ro, Gwangjin-gu, Seoul, Korea (서울특별시 광진구 능동로 120 건국대학교)
-(+82) 02-450-3675
-soominwoo (at) konkuk.ac.kr
+### Soomin Woo, Ph.D., Director of Sustainable Energy and Mobility Lab
+##### Konkuk University, 120, Neungdong-ro, Gwangjin-gu, Seoul, Korea
+##### (서울특별시 광진구 능동로 120 건국대학교)
+##### (+82) 02-450-3675
+##### soominwoo (at) konkuk.ac.kr
