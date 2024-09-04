@@ -76,7 +76,7 @@
       description:
          - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
         
-- title: Awards
+- title: awards
   type: list
   contents:
     - Intelligent Transportation Society of California Scholarship from Intelligent Transportation Society of California in partnership with the California Transportation Foundation, 2020.06.29 
