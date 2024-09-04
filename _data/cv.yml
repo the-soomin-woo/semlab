@@ -55,3 +55,23 @@
       description: 
         - "Minor: Science, Technology, and Policy"
         - "GPA: 4.02/4.3 (Summa Cum Laude)"   
+        
+- title: Research Grants
+  type: time_table
+  contents:
+    - title: <a href="https://dutpartnership.eu">Driving Urban Transitions (DUT)</a> 2023 
+      year: 2024 - 2026
+      description:
+        - "Title: Paradigm shifting of our traditional working environment for a Smart and Sustainable Work Culture (SSWC) through connectivity and sharing"
+        - "Funded by European Partnership and European Commission (Grant No. 101069506)"
+        - "The national funding information for Korea: 협력거점형 국토교통 국제협력 연구개발 사업(R&D) by Korea Agency for Infrastructure Technology Advancements (KAIA)"
+        - "Principal Investigator: Soomin Woo, Ph.D."
+        - "Research collaborators: Marco Pruckner, Ph.D. (University of Würzburg, Germany), Eleni Vlahogianni, Ph.D. (National Technical University of Athens, Greece), and Lisa Lim, Ph.D. (KAIST, Korea)"
+    - title: National Research Foundation (NRF) of Korea
+      year: 2023 - 2025
+      description:
+       - "Title: Energy-optimal Operation of a Multi-modal Electric Mobility System Using Physics-based Machine Learning"
+  - title: Konkuk University research funds
+    year: 2023 - 2026
+    items:
+       - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
