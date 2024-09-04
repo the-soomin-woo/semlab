@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: research
 description: Here are the journal publications, conference proceedings, patents, and copyrights
 nav: true
