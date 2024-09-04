@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: director
 nav: true
 nav_order: 5
 <!--- Comments are Fun --->cv_pdf: example_pdf.pdf
