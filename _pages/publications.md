@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /publications/
-title: Research
+title: research
 description: Here are the journal publications, conference proceedings, patents, and copyrights
 nav: true
 nav_order: 2
 ---
 
-## Journal Publications
+## journal publications 
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
@@ -22,7 +22,7 @@ nav_order: 2
 
 ---
 
-## Journals in Preparation 
+## journals in preparation 
 
 1. (under review) Woo, S., Strobel, L., Pruckner, M., Yuan, Y., & Lipman, T.E*. Exploring Bidirectional Charging Strategies for an Electric Vehicle Population. 
 2. (under review) Xu, S., Choi, Y., Wong, A., Borrelli, F., Moura, Scott., & Woo, S*. Parking of Connected Automated Vehicles: Vehicle Control, Parking Assignment, and Multi-agent Simulation. 
@@ -35,7 +35,7 @@ nav_order: 2
 
 ---
 
-## Conference Proceedings
+## conference proceedings
 
 1. An, Y., Woo, S*. and Lee., J.*, 2024. Modeling CBD areas in the site selection problem of public electric vehicle charging stations. The 2024 Korea Institute of ITS Spring Conference.
 2. An, Y., Kim, S., Woo, S.*, Kim, E.*, Lee, J*. (2023). 전기차 및 충전인프라 생태계 분석: 이해관계자 및 목표를 중심으로, 대한교통학회 및 한국국토도시계획학회
@@ -49,7 +49,7 @@ nav_order: 2
 
 ---
 
-## Patents
+## patents
 
 - System and Methods for Efficient Parking and Charging of Electrified Vehicles
   - Inventor: (1) Francesco Borrelli, (2) Scott J. Moura, (3) Shen Xu, and (4) Soomin Woo 
@@ -66,7 +66,7 @@ nav_order: 2
 
 ---
 
-## Copyrights
+## copyrights
 
 - Pattern-matching based Origin-Destination Traffic Demand Prediction
   - Copyright number: C2016-001259 
