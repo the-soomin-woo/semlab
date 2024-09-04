@@ -1,4 +1,4 @@
-l#- title: General Information
+#- title: General Information
 #  type: map
 #  contents:
 #    - name: Full Name
@@ -55,7 +55,7 @@ l#- title: General Information
       description: 
         - "Minor: Science, Technology, and Policy"
         - "GPA: 4.02/4.3 (Summa Cum Laude)"   
-        
+
 - title: research grants
   type: time_table
   contents:
@@ -75,3 +75,4 @@ l#- title: General Information
       year: 2023 - 2026
       description:
          - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
+        
