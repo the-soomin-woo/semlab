@@ -1,12 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+title: contact
+description: Please feel free to contact us!
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+## contact
+#### Soomin Woo, Ph.D., Director of Sustainable Energy and Mobility Lab
+#### Konkuk University, 120, Neungdong-ro, Gwangjin-gu, Seoul, Korea
+#### (서울특별시 광진구 능동로 120 건국대학교)
+#### (+82) 02-450-3675
+#### soominwoo (at) konkuk.ac.kr
+ 
