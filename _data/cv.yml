@@ -21,7 +21,7 @@
 #        - <a href="http://www.linkedin.com/in/soomin-woo-3488a577">LinkedIn</a> 
 #        - <a href="https://docs.google.com/document/d/1MJ-Yl2zqPIQPpNIA_KEV5RRZdb_3Iefw2lYoIEgHdsc/edit?usp=sharing">CV</a> 
 
-- title: Career
+- title: career
   type: time_table
   contents:
     - title: Assistant Professor
@@ -56,7 +56,7 @@
         - "Minor: Science, Technology, and Policy"
         - "GPA: 4.02/4.3 (Summa Cum Laude)"   
         
-- title: Research Grants
+- title: research grants
   type: time_table
   contents:
     - title: <a href="https://dutpartnership.eu">Driving Urban Transitions (DUT)</a> 2023 
