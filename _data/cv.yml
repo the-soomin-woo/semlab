@@ -59,7 +59,7 @@
 - title: research grants
   type: time_table
   contents:
-    - title: Driving Urban Transitions (DUT) 2023 
+    - title: <a href="https://dutpartnership.eu">Driving Urban Transitions (DUT)</a> 2023 
       year: 2024 - 2026
       description:
         - "Title: Paradigm shifting of our traditional working environment for a Smart and Sustainable Work Culture (SSWC) through connectivity and sharing"
@@ -76,3 +76,12 @@
       description:
          - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
         
+- title: Awards
+  type: list
+  contents:
+    - Intelligent Transportation Society of California Scholarship from Intelligent Transportation Society of California in partnership with the California Transportation Foundation, 2020.06.29 
+    - Excellent Student Paper Award from Korean Transportation Association in America (KOTAA), 2019.01.13
+    - Best Presenter Award, 28th KKHTCNN Symposium on Civil Engineering, 2015.11.18
+    - U-City 경진대회 2등 (Second Place at U-City Contest of Research), KAIST, 2016.01.27
+    - 대한교통학회 회장상 (Presidential Award), Korean Society of Transportation, 2014.02.21
+    - 대한토목학회 표창장 (Commendation Award), Korean Society of Civil Engineers, 2014.02.21
