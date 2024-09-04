@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /contact/
 title: contact
 description: Please feel free to contact us.
 nav: true
