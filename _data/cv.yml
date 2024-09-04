@@ -1,4 +1,4 @@
-#- title: General Information
+l#- title: General Information
 #  type: map
 #  contents:
 #    - name: Full Name
@@ -59,7 +59,7 @@
 - title: research grants
   type: time_table
   contents:
-    - title: <a href="https://dutpartnership.eu">Driving Urban Transitions (DUT)</a> 2023 
+    - title: Driving Urban Transitions (DUT) 2023 
       year: 2024 - 2026
       description:
         - "Title: Paradigm shifting of our traditional working environment for a Smart and Sustainable Work Culture (SSWC) through connectivity and sharing"
@@ -71,7 +71,7 @@
       year: 2023 - 2025
       description:
        - "Title: Energy-optimal Operation of a Multi-modal Electric Mobility System Using Physics-based Machine Learning"
-  - title: Konkuk University research funds
-    year: 2023 - 2026
-    items:
-       - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
+    - title: Konkuk University research funds
+      year: 2023 - 2026
+      description:
+         - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
