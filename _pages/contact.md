@@ -11,7 +11,7 @@ nav_order: 6
 
 ---
 
-**Soomin Woo, Ph.D.**, Director of Sustainable Energy and Mobility Lab
+Soomin Woo, Ph.D., Director of Sustainable Energy and Mobility Lab
 
 Address: Konkuk University, 120, Neungdong-ro, Gwangjin-gu, Seoul, Korea 
 
