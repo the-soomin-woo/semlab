@@ -71,10 +71,12 @@
       year: 2023 - 2025
       description:
        - "Title: Energy-optimal Operation of a Multi-modal Electric Mobility System Using Physics-based Machine Learning"
+       - "Principal Investigator: Soomin Woo, Ph.D."
     - title: Konkuk University research funds
       year: 2023 - 2026
       description:
          - "Title: Physics-informed machine learning prediction of energy consumption for Urban Air Mobility"
+         - "Principal Investigator: Soomin Woo, Ph.D."
         
 - title: awards
   type: list
