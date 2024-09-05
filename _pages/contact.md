@@ -6,7 +6,10 @@ description:
 nav: true
 nav_order: 6
 ---
+
 ## We are recruiting graduate students!
+
+---
 
 **Soomin Woo, Ph.D.**, Director of Sustainable Energy and Mobility Lab
 
